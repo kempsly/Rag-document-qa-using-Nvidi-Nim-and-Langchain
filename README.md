@@ -27,8 +27,8 @@ Ensure you have the following installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/nvidia-nim-rag-app.git
-   cd nvidia-nim-rag-app
+   git clone https://github.com/kempsly/Rag-document-qa-using-Nvidi-Nim-and-Langchain.git
+   cd Rag-document-qa-using-Nvidi-Nim-and-Langchain
    ```
 
 2. **Set up the environment**:
